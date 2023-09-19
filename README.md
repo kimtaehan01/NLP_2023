@@ -1,7 +1,7 @@
 # National Languege Process
 # Use Python
 
-### This project is a Python project that uses text based on content learned in the <font color="orange">digital humanities</font> lecture.
+### This project is a Python project that uses text based on content learned in the <font color = 'orange'> ```digital humanities``` </font> lecture.
 # NLP_2023
 
 # 🐹🍦 **Python Language**
@@ -24,8 +24,3 @@
 | # | Sessions | Keywords |
 |:--:|:--:|:--:|
 | 1 | Code Cells 🐾 | [variable, assign](https://github.com/kimtaehan01/NLP_2023/blob/main/1_CodeCells_Basic.ipynb)|  
-| 2 | Five Types of Data 📋| [number, string, list, tuple, dictionary](https://github.com/ms624atyale/NLP_2023/blob/main/2_FiveTypesofData.ipynb)|
-| 3 | Indexing & Slicing 📌✂️ | [:, 0, -1, link +, repeat *, length len](https://github.com/ms624atyale/NLP_2023/blob/main/3_Indexing_Slicing.ipynb)|
-| 4 | 변수 🐾 | [variable, assign](https://github.com/kimtaehan01/NLP_2023/blob/main/1_CodeCells_Basic.ipynb)|  
-| 5 | 다섯개의 데이터 타입 📋| [number, string, list, tuple, dictionary](https://github.com/ms624atyale/NLP_2023/blob/main/2_FiveTypesofData.ipynb)|
-| 6 | 인덱싱 & 슬라이싱 📌✂️ | [:, 0, -1, link +, repeat *, length len](https://github.com/ms624atyale/NLP_2023/blob/main/3_Indexing_Slicing.ipynb)|
