@@ -24,4 +24,4 @@
 | # | Sessions | Keywords |
 |:--:|:--:|:--:|
 | 1 | Code Cells 🐾 | [variable, assign](https://github.com/kimtaehan01/NLP_2023/blob/main/1_CodeCells_Basic.ipynb)|  
-| 2 | five type data 🐾 | [int, str,etc...](https://github.com/kimtaehan01/NLP_2023/blob/main/2_FiveTypesofData.ipynb)|  
+| 2 | Five Type Data 🐾 | [int, str,etc...](https://github.com/kimtaehan01/NLP_2023/blob/main/2_FiveTypesofData.ipynb)|  
