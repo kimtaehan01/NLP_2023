@@ -25,3 +25,7 @@
 |:--:|:--:|:--:|
 | 1 | Code Cells 🐾 | [variable, assign](https://github.com/kimtaehan01/NLP_2023/blob/main/1_CodeCells_Basic.ipynb)|  
 | 2 | Five Type Data 🐾 | [int, str,etc...](https://github.com/kimtaehan01/NLP_2023/blob/main/2_FiveTypesofData.ipynb)|  
+| 3 | Indexing_Slicing🐾 | [int, str,etc...](https://github.com/kimtaehan01/NLP_2023/blob/main/3_Indexing_Slicing.ipynb)|  
+| 4_1 | IfStatement 🐾 | [int, str,etc...](https://github.com/kimtaehan01/NLP_2023/blob/main/4_1_IfStatement.ipynb)|  
+| 4_2 | ForStatement 🐾 | [int, str,etc...](https://github.com/kimtaehan01/NLP_2023/blob/main/4_2_ForStatement.ipynb)|  
+| 6 | Five Type Data 🐾 | [int, str,etc...](https://github.com/kimtaehan01/NLP_2023/blob/main/2_FiveTypesofData.ipynb)|  
